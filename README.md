@@ -88,9 +88,9 @@ Spotted an issue? Want to contribute a solution or explanation?
 ## ⭐️ Show Some Love!
 
 If you found this helpful, **star** [the repo](https://github.com/tejasvi001/alpha-DSA.git) and share it with fellow learners!  
-[![Star the repo](https://img.shields.io/github/stars/tejasvi001/alpha-DSA.svg?style=socialvi001/alpha-DSA/stargazers
 
-Open an issue or join the Apna College community for help and discussions!
+
+Open an issue or write me at vermanitejasvi@gmail.com for help and discussions!
 
 **Happy Coding! 💡🚀**
 
