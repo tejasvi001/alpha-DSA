@@ -67,7 +67,7 @@ A comprehensive Data Structures & Algorithms resource with hand-crafted implemen
 1. **Clone the Repository**
     ```sh
     git clone https://github.com/tejasvi001/alpha-DSA.git
-    cd alpha-DSA
+    cd alpha
     ```
 
 2. **Open in your favorite IDE and start learning!**
