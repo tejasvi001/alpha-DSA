@@ -94,6 +94,4 @@ Open an issue or write me at vermanitejasvi@gmail.com for help and discussions!
 
 **Happy Coding! 💡🚀**
 
-*Note: Adapt or extend this README as your content grows!*
 
-[1] https://github.com/tejasvi001/alpha-DSA.git
