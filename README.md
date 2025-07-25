@@ -33,7 +33,7 @@ A comprehensive Data Structures & Algorithms resource with hand-crafted implemen
 | 🔁 | Recursion                       | 🧠 | Dynamic Programming        |
 | ✂️ | Divide & Conquer                | 🌲 | Segment Trees              |
 
-## ✨ 24 DSA Patterns Sheet (with Emojis)
+## ✨ 24 DSA Patterns List
 
 | #  | Pattern                                         |
 |----|-------------------------------------------------|
